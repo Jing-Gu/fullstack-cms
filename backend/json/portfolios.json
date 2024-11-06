@@ -1,26 +1,51 @@
 [
   {
-    "id": "marches-liquides",
-    "text": "Marchés liquides"
+    "slug": "marches-liquides",
+    "text": "Marchés liquides",
+    "menu": [
+      {
+        "slug": "global",
+        "text": "Global"
+      },
+      {
+        "slug": "actions",
+        "text": "Actions"
+      },
+      {
+        "slug": "obligations",
+        "text": "Obligations"
+      },
+      {
+        "slug": "produits-derives",
+        "text": "Produits dérivés"
+      }
+    ]
   },
-    {
-    "id": "revenu-fixe",
-    "text": "Revenu fixe"
+  {
+    "slug": "revenu-fixe",
+    "text": "Revenu fixe",
+    "menu": [
+      {
+        "slug": "global",
+        "text": "Global"
+      },
+      {
+        "slug": "credit-entreprise",
+        "text": "Crédit Entreprise"
+      }
+    ]
   },
-    {
-    "id": "marches-boursiers",
-    "text": "Marchés boursiers"
+  {
+    "slug": "marches-boursiers",
+    "text": "Marchés boursiers",
+    "menu": []
   },
-    {
-    "id": "marches-liquides",
-    "text": "Marchés liquides"
-  },
-    {
-    "id": "repartition-de-lactif",
+  {
+    "slug": "repartition-de-lactif",
     "text": "Répartition de l'actif"
   },
   {
-    "id": "placements-prives",
+    "slug": "placements-prives",
     "text": "Placements privés"
   }
 ]

@@ -1,0 +1,12 @@
+[
+    {
+        "name": "revenu test 1",
+        "reports": [
+            {
+                "name": "revenu dododo1"
+            }
+        ],
+        "uuid": "c017838d-b9a3-4ab0-b99e-e249372c8627",
+        "slug": "revenu-test-1"
+    }
+]

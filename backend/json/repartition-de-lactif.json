@@ -1,0 +1,32 @@
+[
+    {
+        "name": "postman",
+        "reports": [
+            {
+                "name": "dododo"
+            }
+        ],
+        "uuid": "5e54fc3a-3bc2-469f-94af-e2d4786a89b7",
+        "slug": "postman"
+    },
+    {
+        "name": "postman2",
+        "reports": [
+            {
+                "name": "dododo2"
+            }
+        ],
+        "uuid": "f1d929c4-6826-4500-9546-cafdca8f24d8",
+        "slug": "postman2"
+    },
+    {
+        "name": "postman3",
+        "reports": [
+            {
+                "name": "dododo3"
+            }
+        ],
+        "uuid": "f4140ae1-55ad-4dea-9b26-b3e07cb65842",
+        "slug": "postman3"
+    }
+]
