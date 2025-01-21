@@ -16,6 +16,13 @@ http://127.0.0.1:8000/api/v1/portfolios/list
 
 ### ADR
 
+http://127.0.0.1:8000/api/v1/news
+
+[ ] The user can create a new news item. - POST
+
+[ ] The user can view all the news. - GET
+
+
 http://127.0.0.1:8000/api/v1/portfolios/{revenue-fixe}/reports
 
 [ x ] The user can create new report.  - POST
@@ -25,7 +32,7 @@ http://127.0.0.1:8000/api/v1/portfolios/{revenue-fixe}/reports
 
 http://127.0.0.1:8000/api/v1/portfolios/{revenue-fixe}/reports/{uuid}
 
-[ x ] The user can read the exisitng report. - GET
+[ x ] The user can read the existing report. - GET
 
 [   ] The user can modify the existing report. - PUT / PATCH ?
 
